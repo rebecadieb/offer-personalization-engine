@@ -220,3 +220,12 @@ __marimo__/
 .DS_Store
 
 venv_pyspark/
+
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+*.crc
+.DS_Store
